@@ -1,0 +1,18 @@
+{
+    "longName": "LCS Ticker",
+    "companyName": "drame",
+    "uuid": "41e88046-3ef8-4443-bd28-d22ad250f298",
+    "capabilities": [
+        "configurable"
+    ],
+    "versionLabel": "1.0",
+    "appKeys": {},
+    "resources": {
+        "media": []
+    },
+    "watchapp": {
+        "watchface": false
+    },
+    "shortName": "LCS Ticker",
+    "versionCode": 1
+}
